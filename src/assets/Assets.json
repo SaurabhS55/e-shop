@@ -1,0 +1,34 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"OnePlus Nord CE 3 Lite 5G",
+            "price":19999,
+            "image":"https://m.media-amazon.com/images/I/61LB+d0vheL._SX679_.jpg"
+        },
+        {
+            "id":2,
+            "name":"boAt Rockerz 255 Pro+",
+            "price":1199,
+            "image":"https://m.media-amazon.com/images/I/51aBTOiXRlL._SX679_.jpg"
+        },
+        {
+            "id":3,
+            "name":"Safari Sneak Casual Backpack",
+            "price":949,
+            "image":"https://m.media-amazon.com/images/I/61QN35aYQsL._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":4,
+            "name":"Fabelle Intense Dark - Chocolate",
+            "price":535,
+            "image":"https://m.media-amazon.com/images/I/71hDNle2+mL._AC_UL600_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":5,
+            "name":"SDS Fashion Boy's Regular Fit T-Shirt",
+            "price":699,
+            "image":"https://m.media-amazon.com/images/I/810qrkIhUbL._UY741_.jpg"
+        }
+    ]
+}
